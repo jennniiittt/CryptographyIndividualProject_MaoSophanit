@@ -131,10 +131,12 @@ go get golang.org/x/crypto/curve25519
 
 ## ** Files**
 
+```
 main.go      # lets you choose server/client mode
 server.go    # server logic
 client.go    # client logic
 crypto.go    # ECDH + AES-GCM functions
+```
 
 ---
 
@@ -181,3 +183,5 @@ Real-world systems require:
   …but this project could be a starting point.
 
 ======== See you on Presentation Day លោកគ្រូ🙏🏼🙏🏼 ========
+
+
