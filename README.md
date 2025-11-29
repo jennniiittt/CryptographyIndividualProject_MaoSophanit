@@ -69,11 +69,4 @@ Good practice for:
 * Secure key exchange
 * AES-GCM usage
 
----
-
-If you want, I can also generate:
-✨ a diagram for the key exchange
-✨ a simple flowchart
-✨ color-coded README version
-
-Just tell me!
+======== See you on Presentation Day លោកគ្រូ🙏🏼🙏🏼 ========
